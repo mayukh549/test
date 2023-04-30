@@ -17,8 +17,7 @@ window.onload = function () {
 
  
 function hui1(){
-    var documentID11 = document.getElementById("product12");
-    documentID11.innerHTML = "click on download!!!";
+
     document.getElementById("rt").classList.add("lo")
 
 
